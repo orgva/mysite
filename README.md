@@ -1,6 +1,7 @@
 "mysite" 
 Following the Sources:
 https://www.javatpoint.com/django-deploy-on-github
+&
 https://djangocentral.com/building-a-blog-application-with-django/
 
 In case of deployment to pythonanywhere ->
